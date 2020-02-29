@@ -1,0 +1,80 @@
+body{
+	background: url(../image/body.jpg);
+	font-size: 15px;
+	font-family: celibri;
+}
+
+.container{
+	margin-top: -8px;
+	margin-left: 200px;
+	width: 800px;
+	height: 1200px;
+	background-color: #A9A9A9;
+}
+
+.header{
+	background-image: url(../image/header.jpg);
+	background-position: 0 -230px;
+	width: 800px;
+	height: 350px;
+}
+
+.judul{
+	font-size: 50px;
+	font-family: algerian;
+	box-sizing: border-box;
+	margin-top: -5px;
+	margin-left: 40px;
+}
+
+
+.underline a{
+	box-sizing: border-box;
+	margin-left: 15px;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: arial;
+	color: #ffffff;
+	height: 50px;
+	background-color: #000000;
+}
+
+.scroll{
+	float: left;
+	margin-top: 30px;
+	max-width: 300px;
+}
+
+.scr{
+	height: 100px;
+	overflow: auto;
+	margin-left: 15px;
+}
+
+.scrol-kanan{
+	float: right;
+	margin-top: 30px;
+	max-width: 400px;
+	height: 90vh;
+}
+
+.kaan{
+	height: 699px;
+	overflow: scroll;
+	margin-left: -70px;
+	
+}
+
+.edit-text{
+	text-align: center;
+}
+
+.edit-text h3{
+	margin-top: -15px;
+}
+
+.materi-kuliah{
+	text-align: center;
+	font-size: 12px;
+	margin-top: 10px;
+}
